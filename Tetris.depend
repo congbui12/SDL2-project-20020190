@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1618891996 source:c:\users\dell\onedrive\documents\tetris\game.cpp
+	"game.hpp"
+	<stdexcept>
+	<iostream>
+
+1618891996 c:\users\dell\onedrive\documents\tetris\game.hpp
+	<SDL.h>
+	"well.hpp"
+	"tetromino.hpp"
+
+1618891996 c:\users\dell\onedrive\documents\tetris\well.hpp
+	"tetromino.hpp"
+	<SDL.h>
+
+1618891996 c:\users\dell\onedrive\documents\tetris\tetromino.hpp
+	<SDL.h>
+
+1618891996 source:c:\users\dell\onedrive\documents\tetris\main.cpp
+	"game.hpp"
+	<iostream>
+
+1618891996 source:c:\users\dell\onedrive\documents\tetris\tetromino.cpp
+	"tetromino.hpp"
+
+1618891996 source:c:\users\dell\onedrive\documents\tetris\well.cpp
+	"well.hpp"
+
